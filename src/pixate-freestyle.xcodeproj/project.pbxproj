@@ -1652,8 +1652,8 @@
 		B3A0515E1BF0CBF300017C56 /* PXBorderStyler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865A818C0499000C71922 /* PXBorderStyler.h */; };
 		B3A0515F1BF0CBF300017C56 /* PXBorderInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98655B18C0499000C71922 /* PXBorderInfo.h */; };
 		B3A051601BF0CBF300017C56 /* PXScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAFA0418EB10A2000C0233 /* PXScope.h */; };
-		B3A051611BF0CBF300017C56 /* UINavigationItem+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867E418C04BA000C71922 /* UINavigationItem+PXStyling.h */; };
-		B3A051621BF0CBF300017C56 /* NSDictionary+PXCSSEncoding.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864DA18C0498F00C71922 /* NSDictionary+PXCSSEncoding.h */; };
+		B3A051611BF0CBF300017C56 /* UINavigationItem+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867E418C04BA000C71922 /* UINavigationItem+PXStyling.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B3A051621BF0CBF300017C56 /* NSDictionary+PXCSSEncoding.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864DA18C0498F00C71922 /* NSDictionary+PXCSSEncoding.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A051631BF0CBF300017C56 /* PXGradient.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98644E18C0498F00C71922 /* PXGradient.h */; };
 		B3A051641BF0CBF300017C56 /* PXExpressionScope.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAFA0318EB10A2000C0233 /* PXExpressionScope.h */; };
 		B3A051651BF0CBF300017C56 /* PXGestalt.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865D418C0499000C71922 /* PXGestalt.h */; };
@@ -1769,7 +1769,7 @@
 		B3A051D31BF0CBF300017C56 /* PXArrayLengthMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF99C18EB10A2000C0233 /* PXArrayLengthMethod.h */; };
 		B3A051D41BF0CBF300017C56 /* PXPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98647818C0498F00C71922 /* PXPath.h */; };
 		B3A051D51BF0CBF300017C56 /* PXShapeView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98649418C0498F00C71922 /* PXShapeView.h */; };
-		B3A051D61BF0CBF300017C56 /* UIColor+PXColors.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98644118C0498F00C71922 /* UIColor+PXColors.h */; };
+		B3A051D61BF0CBF300017C56 /* UIColor+PXColors.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98644118C0498F00C71922 /* UIColor+PXColors.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A051D71BF0CBF300017C56 /* PXUITableViewDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867C918C04BA000C71922 /* PXUITableViewDelegate.h */; };
 		B3A051D81BF0CBF300017C56 /* PXExpressionNodeBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9EB18EB10A2000C0233 /* PXExpressionNodeBuilder.h */; };
 		B3A051D91BF0CBF300017C56 /* PXKeyframeAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98678518C04BA000C71922 /* PXKeyframeAnimation.h */; };
@@ -1782,7 +1782,7 @@
 		B3A051E01BF0CBF300017C56 /* PXTransformTokenType.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98646218C0498F00C71922 /* PXTransformTokenType.h */; };
 		B3A051E11BF0CBF300017C56 /* PXExpressionNodeUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9EF18EB10A2000C0233 /* PXExpressionNodeUtils.h */; };
 		B3A051E21BF0CBF300017C56 /* PXShapeDocument.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98648318C0498F00C71922 /* PXShapeDocument.h */; };
-		B3A051E31BF0CBF300017C56 /* PixateFreestyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98684C18C04C4700C71922 /* PixateFreestyle.h */; };
+		B3A051E31BF0CBF300017C56 /* PixateFreestyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98684C18C04C4700C71922 /* PixateFreestyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A051E41BF0CBF300017C56 /* PXPaint.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98645418C0498F00C71922 /* PXPaint.h */; };
 		B3A051E51BF0CBF300017C56 /* PXTransitionStyler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865C918C0499000C71922 /* PXTransitionStyler.h */; };
 		B3A051E61BF0CBF300017C56 /* PXHSLAFunction.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A09A25B1901AF250046FEAF /* PXHSLAFunction.h */; };
@@ -1811,7 +1811,7 @@
 		B3A051FD1BF0CBF300017C56 /* PXObjectValuesMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A09BE7018EC9463004780F8 /* PXObjectValuesMethod.h */; };
 		B3A051FE1BF0CBF300017C56 /* PXExpressionInstruction.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9D318EB10A2000C0233 /* PXExpressionInstruction.h */; };
 		B3A051FF1BF0CBF300017C56 /* DDAbstractDatabaseLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98649F18C0498F00C71922 /* DDAbstractDatabaseLogger.h */; };
-		B3A052001BF0CBF300017C56 /* PXStylesheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98658418C0499000C71922 /* PXStylesheet.h */; };
+		B3A052001BF0CBF300017C56 /* PXStylesheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98658418C0499000C71922 /* PXStylesheet.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A052011BF0CBF300017C56 /* PXSinFunction.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9BB18EB10A2000C0233 /* PXSinFunction.h */; };
 		B3A052021BF0CBF300017C56 /* PXObjectForEachMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9C018EB10A2000C0233 /* PXObjectForEachMethod.h */; };
 		B3A052031BF0CBF300017C56 /* PXUICollectionViewDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98679F18C04BA000C71922 /* PXUICollectionViewDelegate.h */; };
@@ -1823,7 +1823,7 @@
 		B3A052091BF0CBF300017C56 /* PXUIDatePicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867A118C04BA000C71922 /* PXUIDatePicker.h */; };
 		B3A0520A1BF0CBF300017C56 /* PXMKAnnotationContainerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98678D18C04BA000C71922 /* PXMKAnnotationContainerView.h */; };
 		B3A0520B1BF0CBF300017C56 /* NSObject+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864E118C0498F00C71922 /* NSObject+PXStyling.h */; };
-		B3A0520C1BF0CBF300017C56 /* PixateFreestyleConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864C418C0498F00C71922 /* PixateFreestyleConfiguration.h */; };
+		B3A0520C1BF0CBF300017C56 /* PixateFreestyleConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864C418C0498F00C71922 /* PixateFreestyleConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A0520D1BF0CBF300017C56 /* PXMPVolumeView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98679318C04BA000C71922 /* PXMPVolumeView.h */; };
 		B3A0520E1BF0CBF300017C56 /* PXUITableViewHeaderFooterView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867CB18C04BA000C71922 /* PXUITableViewHeaderFooterView.h */; };
 		B3A0520F1BF0CBF300017C56 /* PXColorStyler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865AC18C0499000C71922 /* PXColorStyler.h */; };
@@ -1853,7 +1853,7 @@
 		B3A052271BF0CBF300017C56 /* NSObject+PXSwizzle.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9620A418F02F0200219C5C /* NSObject+PXSwizzle.h */; };
 		B3A052281BF0CBF300017C56 /* PXTransformParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98646018C0498F00C71922 /* PXTransformParser.h */; };
 		B3A052291BF0CBF300017C56 /* PXValue.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98658618C0499000C71922 /* PXValue.h */; };
-		B3A0522A1BF0CBF300017C56 /* PXStyleable.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98658218C0499000C71922 /* PXStyleable.h */; };
+		B3A0522A1BF0CBF300017C56 /* PXStyleable.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98658218C0499000C71922 /* PXStyleable.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A0522B1BF0CBF300017C56 /* PXTransformLexer.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98645E18C0498F00C71922 /* PXTransformLexer.h */; };
 		B3A0522C1BF0CBF300017C56 /* PXAttributeSelector.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98658918C0499000C71922 /* PXAttributeSelector.h */; };
 		B3A0522D1BF0CBF300017C56 /* PXRGBAFunction.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A09A2531901AE910046FEAF /* PXRGBAFunction.h */; };
@@ -1906,7 +1906,7 @@
 		B3A0525C1BF0CBF300017C56 /* PXUIStepper.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867BD18C04BA000C71922 /* PXUIStepper.h */; };
 		B3A0525D1BF0CBF300017C56 /* PXText.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98648718C0498F00C71922 /* PXText.h */; };
 		B3A0525E1BF0CBF300017C56 /* PXUISlider.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867BB18C04BA000C71922 /* PXUISlider.h */; };
-		B3A0525F1BF0CBF300017C56 /* UITabBarItem+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867E618C04BA000C71922 /* UITabBarItem+PXStyling.h */; };
+		B3A0525F1BF0CBF300017C56 /* UITabBarItem+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867E618C04BA000C71922 /* UITabBarItem+PXStyling.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A052601BF0CBF300017C56 /* PXKeyframeBlock.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98678718C04BA000C71922 /* PXKeyframeBlock.h */; };
 		B3A052611BF0CBF300017C56 /* PXTransformStyler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865C718C0499000C71922 /* PXTransformStyler.h */; };
 		B3A052621BF0CBF300017C56 /* PXURLMatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98657618C0499000C71922 /* PXURLMatcher.h */; };
@@ -1921,7 +1921,7 @@
 		B3A0526B1BF0CBF300017C56 /* PXLog.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98649B18C0498F00C71922 /* PXLog.h */; };
 		B3A0526C1BF0CBF300017C56 /* PXExpressionObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAFA1318EB10A2000C0233 /* PXExpressionObject.h */; };
 		B3A0526D1BF0CBF300017C56 /* PXExpressionArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAFA1118EB10A2000C0233 /* PXExpressionArray.h */; };
-		B3A0526E1BF0CBF300017C56 /* UIView+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864E718C0498F00C71922 /* UIView+PXStyling.h */; };
+		B3A0526E1BF0CBF300017C56 /* UIView+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864E718C0498F00C71922 /* UIView+PXStyling.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A0526F1BF0CBF300017C56 /* PXByteCodeBuilder.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9CF18EB10A2000C0233 /* PXByteCodeBuilder.h */; };
 		B3A052701BF0CBF300017C56 /* PXStyleInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9864D318C0498F00C71922 /* PXStyleInfo.h */; };
 		B3A052711BF0CBF300017C56 /* PXExpressionLexeme.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9E718EB10A2000C0233 /* PXExpressionLexeme.h */; };
@@ -1939,11 +1939,11 @@
 		B3A0527D1BF0CBF300017C56 /* PXAnimationStyler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865A018C0499000C71922 /* PXAnimationStyler.h */; };
 		B3A0527E1BF0CBF300017C56 /* PXKeyframe.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98678318C04BA000C71922 /* PXKeyframe.h */; };
 		B3A0527F1BF0CBF300017C56 /* PXArrayFilterMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A745CA318FD9AC20019EC6B /* PXArrayFilterMethod.h */; };
-		B3A052801BF0CBF300017C56 /* PXVirtualControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867DC18C04BA000C71922 /* PXVirtualControl.h */; };
+		B3A052801BF0CBF300017C56 /* PXVirtualControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867DC18C04BA000C71922 /* PXVirtualControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A052811BF0CBF300017C56 /* PXArrayPopMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9A018EB10A2000C0233 /* PXArrayPopMethod.h */; };
 		B3A052821BF0CBF300017C56 /* PXMediaExpression.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98656618C0499000C71922 /* PXMediaExpression.h */; };
 		B3A052831BF0CBF300017C56 /* PXPaintStyler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9865BA18C0499000C71922 /* PXPaintStyler.h */; };
-		B3A052841BF0CBF300017C56 /* UIBarButtonItem+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867E018C04BA000C71922 /* UIBarButtonItem+PXStyling.h */; };
+		B3A052841BF0CBF300017C56 /* UIBarButtonItem+PXStyling.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C9867E018C04BA000C71922 /* UIBarButtonItem+PXStyling.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B3A052851BF0CBF300017C56 /* PXCosFunction.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CAAF9B718EB10A2000C0233 /* PXCosFunction.h */; };
 		B3A052861BF0CBF300017C56 /* PXArrayEveryMethod.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A745CA118FD9AC20019EC6B /* PXArrayEveryMethod.h */; };
 		B3A052871BF0CBF300017C56 /* PXAnimationPropertyHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C98678118C04BA000C71922 /* PXAnimationPropertyHandler.h */; };
@@ -5877,6 +5877,17 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3A052801BF0CBF300017C56 /* PXVirtualControl.h in Headers */,
+				B3A0522A1BF0CBF300017C56 /* PXStyleable.h in Headers */,
+				B3A052001BF0CBF300017C56 /* PXStylesheet.h in Headers */,
+				B3A051D61BF0CBF300017C56 /* UIColor+PXColors.h in Headers */,
+				B3A051611BF0CBF300017C56 /* UINavigationItem+PXStyling.h in Headers */,
+				B3A0525F1BF0CBF300017C56 /* UITabBarItem+PXStyling.h in Headers */,
+				B3A052841BF0CBF300017C56 /* UIBarButtonItem+PXStyling.h in Headers */,
+				B3A051621BF0CBF300017C56 /* NSDictionary+PXCSSEncoding.h in Headers */,
+				B3A0526E1BF0CBF300017C56 /* UIView+PXStyling.h in Headers */,
+				B3A051E31BF0CBF300017C56 /* PixateFreestyle.h in Headers */,
+				B3A0520C1BF0CBF300017C56 /* PixateFreestyleConfiguration.h in Headers */,
 				B3A04CAA1BF0CA1700017C56 /* Freestyle.h in Headers */,
 				B3A052961BF0CBF300017C56 /* Version.h in Headers */,
 				B3A0515C1BF0CBF300017C56 /* PXImageUtils.h in Headers */,
@@ -5884,8 +5895,6 @@
 				B3A0515E1BF0CBF300017C56 /* PXBorderStyler.h in Headers */,
 				B3A0515F1BF0CBF300017C56 /* PXBorderInfo.h in Headers */,
 				B3A051601BF0CBF300017C56 /* PXScope.h in Headers */,
-				B3A051611BF0CBF300017C56 /* UINavigationItem+PXStyling.h in Headers */,
-				B3A051621BF0CBF300017C56 /* NSDictionary+PXCSSEncoding.h in Headers */,
 				B3A051631BF0CBF300017C56 /* PXGradient.h in Headers */,
 				B3A051641BF0CBF300017C56 /* PXExpressionScope.h in Headers */,
 				B3A051651BF0CBF300017C56 /* PXGestalt.h in Headers */,
@@ -6001,7 +6010,6 @@
 				B3A051D31BF0CBF300017C56 /* PXArrayLengthMethod.h in Headers */,
 				B3A051D41BF0CBF300017C56 /* PXPath.h in Headers */,
 				B3A051D51BF0CBF300017C56 /* PXShapeView.h in Headers */,
-				B3A051D61BF0CBF300017C56 /* UIColor+PXColors.h in Headers */,
 				B3A051D71BF0CBF300017C56 /* PXUITableViewDelegate.h in Headers */,
 				B3A051D81BF0CBF300017C56 /* PXExpressionNodeBuilder.h in Headers */,
 				B3A051D91BF0CBF300017C56 /* PXKeyframeAnimation.h in Headers */,
@@ -6014,7 +6022,6 @@
 				B3A051E01BF0CBF300017C56 /* PXTransformTokenType.h in Headers */,
 				B3A051E11BF0CBF300017C56 /* PXExpressionNodeUtils.h in Headers */,
 				B3A051E21BF0CBF300017C56 /* PXShapeDocument.h in Headers */,
-				B3A051E31BF0CBF300017C56 /* PixateFreestyle.h in Headers */,
 				B3A051E41BF0CBF300017C56 /* PXPaint.h in Headers */,
 				B3A051E51BF0CBF300017C56 /* PXTransitionStyler.h in Headers */,
 				B3A051E61BF0CBF300017C56 /* PXHSLAFunction.h in Headers */,
@@ -6043,7 +6050,6 @@
 				B3A051FD1BF0CBF300017C56 /* PXObjectValuesMethod.h in Headers */,
 				B3A051FE1BF0CBF300017C56 /* PXExpressionInstruction.h in Headers */,
 				B3A051FF1BF0CBF300017C56 /* DDAbstractDatabaseLogger.h in Headers */,
-				B3A052001BF0CBF300017C56 /* PXStylesheet.h in Headers */,
 				B3A052011BF0CBF300017C56 /* PXSinFunction.h in Headers */,
 				B3A052021BF0CBF300017C56 /* PXObjectForEachMethod.h in Headers */,
 				B3A052031BF0CBF300017C56 /* PXUICollectionViewDelegate.h in Headers */,
@@ -6055,7 +6061,6 @@
 				B3A052091BF0CBF300017C56 /* PXUIDatePicker.h in Headers */,
 				B3A0520A1BF0CBF300017C56 /* PXMKAnnotationContainerView.h in Headers */,
 				B3A0520B1BF0CBF300017C56 /* NSObject+PXStyling.h in Headers */,
-				B3A0520C1BF0CBF300017C56 /* PixateFreestyleConfiguration.h in Headers */,
 				B3A0520D1BF0CBF300017C56 /* PXMPVolumeView.h in Headers */,
 				B3A0520E1BF0CBF300017C56 /* PXUITableViewHeaderFooterView.h in Headers */,
 				B3A0520F1BF0CBF300017C56 /* PXColorStyler.h in Headers */,
@@ -6085,7 +6090,6 @@
 				B3A052271BF0CBF300017C56 /* NSObject+PXSwizzle.h in Headers */,
 				B3A052281BF0CBF300017C56 /* PXTransformParser.h in Headers */,
 				B3A052291BF0CBF300017C56 /* PXValue.h in Headers */,
-				B3A0522A1BF0CBF300017C56 /* PXStyleable.h in Headers */,
 				B3A0522B1BF0CBF300017C56 /* PXTransformLexer.h in Headers */,
 				B3A0522C1BF0CBF300017C56 /* PXAttributeSelector.h in Headers */,
 				B3A0522D1BF0CBF300017C56 /* PXRGBAFunction.h in Headers */,
@@ -6138,7 +6142,6 @@
 				B3A0525C1BF0CBF300017C56 /* PXUIStepper.h in Headers */,
 				B3A0525D1BF0CBF300017C56 /* PXText.h in Headers */,
 				B3A0525E1BF0CBF300017C56 /* PXUISlider.h in Headers */,
-				B3A0525F1BF0CBF300017C56 /* UITabBarItem+PXStyling.h in Headers */,
 				B3A052601BF0CBF300017C56 /* PXKeyframeBlock.h in Headers */,
 				B3A052611BF0CBF300017C56 /* PXTransformStyler.h in Headers */,
 				B3A052621BF0CBF300017C56 /* PXURLMatcher.h in Headers */,
@@ -6153,7 +6156,6 @@
 				B3A0526B1BF0CBF300017C56 /* PXLog.h in Headers */,
 				B3A0526C1BF0CBF300017C56 /* PXExpressionObject.h in Headers */,
 				B3A0526D1BF0CBF300017C56 /* PXExpressionArray.h in Headers */,
-				B3A0526E1BF0CBF300017C56 /* UIView+PXStyling.h in Headers */,
 				B3A0526F1BF0CBF300017C56 /* PXByteCodeBuilder.h in Headers */,
 				B3A052701BF0CBF300017C56 /* PXStyleInfo.h in Headers */,
 				B3A052711BF0CBF300017C56 /* PXExpressionLexeme.h in Headers */,
@@ -6171,11 +6173,9 @@
 				B3A0527D1BF0CBF300017C56 /* PXAnimationStyler.h in Headers */,
 				B3A0527E1BF0CBF300017C56 /* PXKeyframe.h in Headers */,
 				B3A0527F1BF0CBF300017C56 /* PXArrayFilterMethod.h in Headers */,
-				B3A052801BF0CBF300017C56 /* PXVirtualControl.h in Headers */,
 				B3A052811BF0CBF300017C56 /* PXArrayPopMethod.h in Headers */,
 				B3A052821BF0CBF300017C56 /* PXMediaExpression.h in Headers */,
 				B3A052831BF0CBF300017C56 /* PXPaintStyler.h in Headers */,
-				B3A052841BF0CBF300017C56 /* UIBarButtonItem+PXStyling.h in Headers */,
 				B3A052851BF0CBF300017C56 /* PXCosFunction.h in Headers */,
 				B3A052861BF0CBF300017C56 /* PXArrayEveryMethod.h in Headers */,
 				B3A052871BF0CBF300017C56 /* PXAnimationPropertyHandler.h in Headers */,

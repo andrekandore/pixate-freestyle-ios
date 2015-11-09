@@ -16,3 +16,4 @@ FOUNDATION_EXPORT const unsigned char FreestyleVersionString[];
 
 //! Public Headers
 #import <Freestyle/Version.h>
+#import <Freestyle/PixateFreestyle.h>
