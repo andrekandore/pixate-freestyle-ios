@@ -4628,7 +4628,7 @@
 				9CAAF9F918EB10A2000C0233 /* PXScriptManager.m */,
 			);
 			name = ExpressionMachine;
-			path = "../submodules/pixate-expression-machine/src/ExpressionMachine";
+			path = "../../../../../../../Documents/Developer/Github/pixate-freestyle-ios/submodules/pixate-expression-machine/src/ExpressionMachine";
 			sourceTree = "<group>";
 		};
 		9CAAF99218EB10A2000C0233 /* Bridge */ = {
