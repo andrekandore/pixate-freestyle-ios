@@ -38,6 +38,8 @@
     PXPath *borderPathLeft_;
 }
 
+@dynamic padding;
+
 @synthesize bounds = _bounds;
 
 #pragma mark - Initializers
