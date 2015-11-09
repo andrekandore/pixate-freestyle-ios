@@ -14,6 +14,5 @@ FOUNDATION_EXPORT double FreestyleVersionNumber;
 //! Project version string for Freestyle.
 FOUNDATION_EXPORT const unsigned char FreestyleVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <Freestyle/PublicHeader.h>
-
-
+//! Public Headers
+#import <Freestyle/Version.h>
